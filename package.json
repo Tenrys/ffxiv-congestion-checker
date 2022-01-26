@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "electron": "^16.0.7",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "puppeteer": "^13.1.2"
+  },
+  "scripts": {
+    "start": "electron ."
+  },
+  "main": "main.js",
+  "devDependencies": {
+    "eslint": "^8.7.0",
+    "prettier": "^2.5.1"
+  }
+}
